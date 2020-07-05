@@ -1,6 +1,6 @@
 #!/bin/bash
 #PBS -q standard
-#PBS -l nodes=1:ppn=3,pmem=7pgb
+#PBS -l nodes=1:ppn=3,pmem=6pgb
 #PBS -l walltime=00:05:00
 #PBS -e ${PBS_JOBID}.err
 #PBS -o ${PBS_JOBID}.out
