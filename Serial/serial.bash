@@ -2,6 +2,6 @@ date
 hostname
 pwd
 echo "========================"
-free -h
+free -g
 echo "========================"
 sleep 180
